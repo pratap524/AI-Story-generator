@@ -1,6 +1,6 @@
-# Haxtreame
+# AI Story Generator
 
-Haxtreame is a full-stack AI storytelling app with a React + Vite frontend and a FastAPI backend that runs a local Transformers model for cinematic fairy-tale generation.
+AI Story Generator is a full-stack AI storytelling app with a React + Vite frontend and a FastAPI backend that runs a local Transformers model for cinematic fairy-tale generation.
 
 ## Quick Start
 
